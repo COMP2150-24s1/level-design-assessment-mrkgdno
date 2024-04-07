@@ -54,6 +54,12 @@ Challenge for the most part, ramps up in each section until reaching a final roo
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
+-------------------------------------------------------------------------------------------------------------------------
+
+In my level, exploration becomes prevalent more once the player arrives in the main hub area with the exit door. They’re incentivized to choose one of the two branching paths to proceed to the next section, and normally exploration rewards them with health kits. Exploring either direction would reward a weapon (whether staff or gun), but each weapon is only used in the section that they came from without much overlap. Each section is created so that they each stand out as much as they can. Sections 1 & 2 may look the most similar, but section 2 holds more abandoned environments and broken down places, but since they are both in the cavernous areas, they both are riddled with roots and overgrown foliage. Section 3 is held more in a temple-like area, with fully built-in walls, statues and decorations. The illusion of exploration is used mainly in section 2, where the player is given a choice to explore upwards or continue forward. Exploring upwards shows you a deactivated bridge, but not allowing you to go forward, and forcing you to go back the other way.
+
+
+
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
@@ -83,7 +89,9 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.11. Weapon Pickup (Staff)
 
-![MoleculeDiagram](DocImages/MoleculeDiagram.jpg)
+![Area1Inspiration](DocImages/Area1Inspiration.jpg)
+![Area2Inspiration](DocImages/Area2Inspiration.jpg)
+![Area3Inspiration](DocImages/Area3Inspiration.jpg)
 
 
 ## 3. Spatiotemporal Design
@@ -97,10 +105,8 @@ No additional words are necessary for this section (any words should only be wit
 ![MoleculeDiagram](DocImages/MoleculeDiagram.jpg)
 
 
-
 ### 3.2. Level Map – Section 1
 ![Area1Overview](DocImages/Area1Overview.jpg)
-
 
 
 ### 3.3. Level Map – Section 2
