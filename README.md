@@ -67,27 +67,40 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+### 2.1. Spikes
+Spikes are first introduced as large impediments that the player has to overcome. This is introduced to show what the player should avoid, since smaller ones are scattered throughout the level.
 
-### 2.2. Checkpoints
+### 2.2. Moving Platforms
+These platforms are introduced in a safer room, just to familiarize the player with the basic platforming mechanics and platforms that are able to move up vertically, and in subsequent room to jump horizontally from side to side
 
-### 2.3. Chompers
+### 2.3. Passthrough Platforms
+Similarly, these types of platforms are introduced in the same room, and are also shown in conjunction with the moving platforms to introduce the platforming basics and what’ll be in future sections.
 
 ### 2.4. Health Pickups
+These health pickups are introduced in the same room as the moving platforms and passthrough platforms, in order to provide players with that feeling of a safe room while platforming
 
-### 2.5. Keys
+### 2.5. Acid
+Acid is introduced in back to back rooms, in an acid pit complemented with moving platforms, showing them the basic platformer format after the safe room.
 
-### 2.6. Moving Platforms
+### 2.6. Checkpoints
+The checkpoints are shown in between the acid room and the final room, to warn the player of the incoming room, and that this might be a challenging room they could perish in.
 
-### 2.7. Passthrough Platforms
+### 2.7. Spitters
+Spitters are shown in the final acid room, to showcase the new enemy type and it’s gimmick: to fire spitballs at the player. It provides a more complex challenge that they’ll have to avoid.
 
-### 2.8. Spikes
+### 2.8. Keys
+Keys are shown at the end of the cavern, to showcase the end of that portion of the level, and as a reward. 
 
-### 2.9. Spitters
+### 2.9. Weapon Pickup (Staff)
+The staff pickup is shown in a special room, with health kits to showcase how important the room is, and what new ability it is you are obtaining. The exit is obstructed with a breakable wall, to showcase how the staff should work.
 
-### 2.10. Weapon Pickup (Gun)
+### 2.10. Chompers
+Chompers are shown after obtaining the staff weapon in a single room, to showcase that the chompers are seen as an enemy, and the weapon is able to be used against them.
 
-### 2.11. Weapon Pickup (Staff)
+### 2.11. Weapon Pickup (Gun)
+The gunpickup is shown in another special room, after solving a simple puzzle, to showcase what the gun is going to be used for and in the context of a puzzle room.
+
+
 
 ![Area1Inspiration](DocImages/Area1Inspiration.jpg)
 ![Area2Inspiration](DocImages/Area2Inspiration.jpg)
@@ -107,15 +120,16 @@ No additional words are necessary for this section (any words should only be wit
 
 ### 3.2. Level Map – Section 1
 ![Area1Overview](DocImages/Area1Overview.jpg)
+![Area1(FinalVers.)](DocImages/Area1(FinalVers.).jpg)
 
 
 ### 3.3. Level Map – Section 2
 ![Area2Overview](DocImages/Area2Overview.jpg)
-
+![Area3(FinalVers.)](DocImages/Area3(FinalVers.).jpg)
 
 ### 3.4. Level Map – Section 3
 ![Area3Overview](DocImages/Area3Overview.jpg)
-
+![Area3(FinalVers.)](DocImages/Area3(FinalVers.).jpg)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
