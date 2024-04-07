@@ -21,6 +21,8 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
+-------------------------------------------------------------------------------------------------------------------------
+
 The player experience of discovery in my level design can be found incorporated at various stages, but heavier into the later stages (sections 2 & 3), as section 1 is heavily linear. Once the player is loaded into the level, there isn’t much of a context to where the player is, accentuated by the confusion of the player character, forcing them to explore the cavern and avoid dangers. Once the player is about finished at the exit of the first section of the level, a breakable wall is found amongst health containers. The player notices that they can’t do anything to it and are forced to leave.
 
 ![Discovery1](DocImages/Discovery1.jpg)
@@ -34,11 +36,20 @@ It is only until reaching the ‘caverns’ section that they receive the staff 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+ -------------------------------------------------------------------------------------------------------------------------
+
 The initial spawn and the first section is meant to be a tutorial / easy starting area, bringing platforming based ease to the game, and each challenge room is broken in between with rest rooms to relax, some scattered with health and to help prepare for the next challenge room. After gaining a key and continuing forward to see the other directions the player can go, each subsequent room becomes slightly harder. With the player being given the ability to defend themselves against enemies, section 2 is ramped up to be more of an intense room all throughout, with enemies scattered throughout the level with minimal time or places to relax. Section 3 finishes by slowing down the intensity with puzzle solving, scattered with a little bit of enemies but focusing mainly on solving puzzles to the key. 
 
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Challenge for the most part, ramps up in each section until reaching a final room, in which a final challenge is presented for the player to conquer. Usually at the beginning of each section, there would be a room for the player to become familiar with each part of the game mechanics, then once they progress forward, they’ll encounter those mechanics in a more complex way. In section 1, players are familiarized with the mechanics of moving platforms, drop down platforms and dangers such as acid and spikes. The rooms afterwards are complex versions of those mechanics for the player to control, being used in ways the player would have to avoid. The same process is used for section 2, where the player finds the staff and encounters a chomper in a controlled environment. Afterwards the player finds a whole room dedicated to chompers and spitters spread amongst the level, and has to deal with many of them for the remainder of the level. In section 3, the difficulty comes more in the form of puzzles and intellect. There are a whole variety of challenges throughout the level, from platforming to combat to puzzle solving. For difficulty balance, the puzzles presented aren’t as complex in section 3, and require only a little bit of thinking of the solution to each puzzle. In section 2 however, for difficulty balance the enemies are killed in one hit, so having many of them scattered about in different platforms helps counteract the overall weakness of some of them. In general, the spitters’ overall range isn’t as complex or large, and the player won’t have as much trouble trying to avoid their attacks if put across the room. So to counteract that, having some spots where they are strategically placed while the player moves around platforms, they are forced to avoid them rather than try to fight them.  
+
+![Challenge1](DocImages/Challenge1.jpg)
+
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
@@ -80,6 +91,8 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
+ -------------------------------------------------------------------------------------------------------------------------
+
 ### 3.1. Molecule Diagram
 ![MoleculeDiagram](DocImages/MoleculeDiagram.jpg)
 
@@ -103,10 +116,13 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+-------------------------------------------------------------------------------------------------------------------------
 
 When developing ideas for the starting area, I had bounced through a couple ideas of rooms that ended up in the final design and had started incorporating them into the game, but upon a couple times of playtesting (with other contributing players), I ended up modifying the layout of that starting section to make it more easier. Re-reading my initial scripts and plans, I had wanted the first section to be an obstacle course of platforming for the player, but objectively easier compared to the other sections. The original draft had 4 rooms, starting with the acid room with moving platforms going all the way to the exit. After various playtesting, I changed the layout, so now the final layout has the 3rd room from the original being the one of the first the player comes across, and adding an additional room. The additional room is similar to the acid moving platform room, except its spikes and is static. I designed it to be the first room the player encounters, just to make the player experience easier at first, and allow the player to familiarize themselves with the basics of the kinds of platforms and platforming mechanics that are introduced. With this concept, I ordered it more so that each room the player progresses through gets progressively harder, up to the final room, where the player encounters a room of spitters with no defense as the final challenge before finishing the section and obtaining the first key.
 
+![Section1(ORIGINAL)](DocImages/Section1(ORIGINAL).jpg)
 
+![Section1(OriginalMapDesign)](DocImages/OriginalMapDesign.jpg)
 
 
 ## Generative AI Use Acknowledgement
