@@ -70,41 +70,58 @@ You should restructure the headings below to match the order they appear in your
 ### 2.1. Spikes
 Spikes are first introduced as large impediments that the player has to overcome. This is introduced to show what the player should avoid, since smaller ones are scattered throughout the level.
 
+![Storyboard-Spikes](DocImages/Storyboard-Spikes.jpg)
+
 ### 2.2. Moving Platforms
 These platforms are introduced in a safer room, just to familiarize the player with the basic platforming mechanics and platforms that are able to move up vertically, and in subsequent room to jump horizontally from side to side
+
+![Storyboard-MovablePlatform](DocImages/Storyboard-MovablePlatform.jpg)
 
 ### 2.3. Passthrough Platforms
 Similarly, these types of platforms are introduced in the same room, and are also shown in conjunction with the moving platforms to introduce the platforming basics and what’ll be in future sections.
 
+![Storyboard-PassablePlatform](DocImages/Storyboard-PassablePlatform.jpg)
+
 ### 2.4. Health Pickups
 These health pickups are introduced in the same room as the moving platforms and passthrough platforms, in order to provide players with that feeling of a safe room while platforming
+
+![Storyboard-HealthPickup](DocImages/Storyboard-HealthPickup.jpg)
 
 ### 2.5. Acid
 Acid is introduced in back to back rooms, in an acid pit complemented with moving platforms, showing them the basic platformer format after the safe room.
 
+![Storyboard-Acid](DocImages/Storyboard-Acid.jpg)
+
 ### 2.6. Checkpoints
 The checkpoints are shown in between the acid room and the final room, to warn the player of the incoming room, and that this might be a challenging room they could perish in.
+
+![Storyboard-Checkpoint](DocImages/Storyboard-Checkpoint.jpg)
 
 ### 2.7. Spitters
 Spitters are shown in the final acid room, to showcase the new enemy type and it’s gimmick: to fire spitballs at the player. It provides a more complex challenge that they’ll have to avoid.
 
+![Storyboard-Spitter](DocImages/Storyboard-Spitter.jpg)
+
 ### 2.8. Keys
 Keys are shown at the end of the cavern, to showcase the end of that portion of the level, and as a reward. 
+
+![Storyboard-Keys](DocImages/Storyboard-Keys.jpg)
 
 ### 2.9. Weapon Pickup (Staff)
 The staff pickup is shown in a special room, with health kits to showcase how important the room is, and what new ability it is you are obtaining. The exit is obstructed with a breakable wall, to showcase how the staff should work.
 
+![Storyboard-Staff](DocImages/Storyboard-Staff.jpg)
+
 ### 2.10. Chompers
 Chompers are shown after obtaining the staff weapon in a single room, to showcase that the chompers are seen as an enemy, and the weapon is able to be used against them.
+
+![Storyboard-Chomper](DocImages/Storyboard-Chomper.jpg)
 
 ### 2.11. Weapon Pickup (Gun)
 The gunpickup is shown in another special room, after solving a simple puzzle, to showcase what the gun is going to be used for and in the context of a puzzle room.
 
+![Storyboard-Gun](DocImages/Storyboard-Gun.jpg)
 
-
-![Area1Inspiration](DocImages/Area1Inspiration.jpg)
-![Area2Inspiration](DocImages/Area2Inspiration.jpg)
-![Area3Inspiration](DocImages/Area3Inspiration.jpg)
 
 
 ## 3. Spatiotemporal Design
@@ -144,6 +161,9 @@ When developing ideas for the starting area, I had bounced through a couple idea
 
 ![Section1(OriginalMapDesign)](DocImages/OriginalMapDesign.jpg)
 
+![Area1Inspiration](DocImages/Area1Inspiration.jpg)
+![Area2Inspiration](DocImages/Area2Inspiration.jpg)
+![Area3Inspiration](DocImages/Area3Inspiration.jpg)
 
 ## Generative AI Use Acknowledgement
 
