@@ -142,7 +142,7 @@ No additional words are necessary for this section (any words should only be wit
 
 ### 3.3. Level Map – Section 2
 ![Area2Overview](DocImages/Area2Overview.jpg)
-![Area3(FinalVers.)](DocImages/Area3(FinalVers.).jpg)
+![Area2(FinalVers.)](DocImages/Area2(FinalVers.).jpg)
 
 ### 3.4. Level Map – Section 3
 ![Area3Overview](DocImages/Area3Overview.jpg)
