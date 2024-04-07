@@ -23,12 +23,12 @@ What does the player learn? How does your encounter and broader level design fac
 
 The player experience of discovery in my level design can be found incorporated at various stages, but heavier into the later stages (sections 2 & 3), as section 1 is heavily linear. Once the player is loaded into the level, there isn’t much of a context to where the player is, accentuated by the confusion of the player character, forcing them to explore the cavern and avoid dangers. Once the player is about finished at the exit of the first section of the level, a breakable wall is found amongst health containers. The player notices that they can’t do anything to it and are forced to leave.
 
-![Discovery1](DocImages/Discovery1.png)
+![Discovery1](DocImages/Discovery1.jpg)
 
 
 It is only until reaching the ‘caverns’ section that they receive the staff item, and the ability to melee attack. Assuming the player knows the controls, the player being trapped in a small room allows them to discover that they can destroy walls, and attack enemies in a controlled environment. The player in section 2 gives them the option to explore, and piece together information, such as them discovering the switch at the end of the room activates the movable platform found near the start of the section. Section 3 involves puzzle solving, and for the player to discover the mechanics to how each room is solved, such as pressure pads and switches. 
 
-![Discovery2](DocImages/Discovery2.png)
+![Discovery2](DocImages/Discovery2.jpg)
 
 
 ### 1.2. Drama
@@ -72,27 +72,30 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.11. Weapon Pickup (Staff)
 
+![MoleculeDiagram](DocImages/MoleculeDiagram.jpg)
+
+
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-![MoleculeDiagram](DocImages/MoleculeDiagram.png)
+![MoleculeDiagram](DocImages/MoleculeDiagram.jpg)
 
 
 
 ### 3.2. Level Map – Section 1
-![Area1Overview](DocImages/Area1Overview.png)
+![Area1Overview](DocImages/Area1Overview.jpg)
 
 
 
 ### 3.3. Level Map – Section 2
-![Area2Overview](DocImages/Area2Overview.png)
+![Area2Overview](DocImages/Area2Overview.jpg)
 
 
 ### 3.4. Level Map – Section 3
-![Area3Overview](DocImages/Area3Overview.png)
+![Area3Overview](DocImages/Area3Overview.jpg)
 
 
 ## 4. Iterative Design (~400 words)
